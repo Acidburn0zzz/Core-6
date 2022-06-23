@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "got": "^11.8.2",
+    "got": "^11.8.5",
     "redis": "^3.0.2"
   },
   "devDependencies": {
