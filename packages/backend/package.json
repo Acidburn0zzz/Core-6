@@ -31,7 +31,7 @@
     "@adonisjs/repl": "^1.0.0",
     "@squiz/shared": "1.0.0",
     "got": "^11.8.0",
-    "luxon": "^1.25.0",
+    "luxon": "^1.28.1",
     "pg": "^8.4.2",
     "phc-bcrypt": "^1.0.3",
     "pino-datadog": "^2.0.1",
